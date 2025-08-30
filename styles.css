@@ -10,7 +10,7 @@ body{
     display:flex;
     justify-content:center;
     align-items:center;
-    background-image: url(./logo.jpg);
+    background-image: url(./logo_DC.png);
     background-size: cover;
     background-position: center;
 }
